@@ -2,7 +2,7 @@
 Cercadinho com meus projetos modelos que vou implementando ao longo do tempo! 
 
 ## System File Watcher
-Aplicação que monitora a criação de arquivos .DAT em uma pasta " %HOMEPATH%/in ", faz o processamento desses dados, que estão em um formato específico, e grava em um arquivo de saída que está em uma pasta " %HOMEPATH%/out ".
+Aplicação que monitora a criação de arquivos .DAT em uma pasta " %HOMEPATH%/in ", faz o processamento desses dados, que estão em um formato específico, e grava em um arquivo de saída na pasta " %HOMEPATH%/out ".
 
 ### Tecnologias:
  - .NET6
