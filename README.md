@@ -9,5 +9,5 @@ Aplicação que faz a leitura e processa de arquivos .DAT.
  - .NET6
  - C#
 ### Padrões:
- - Clean Architecture
+ - Arquitetura Hexagonal
 
