@@ -5,9 +5,9 @@ Cercadinho com meus projetos modelos que vou implementando ao longo do tempo!
 
 Aplicação que faz a leitura e processa de arquivos .DAT.
 
-###Tecnologias:
+### Tecnologias:
  - .NET6
  - C#
-###Padrões:
+### Padrões:
  - Clean Architecture
 
