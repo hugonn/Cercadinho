@@ -8,7 +8,7 @@ Aplicação que faz a leitura de um arquivo que está em um formato específico 
 ### Tecnologias:
  - .NET6
  - C#
- - 
+ 
 ### Padrões e Princípios:
  - [Clean Architecture](https://blog.cleancoder.com/)
  - [Ports and Adapter Pattern](https://alistair.cockburn.us/hexagonal-architecture/)
