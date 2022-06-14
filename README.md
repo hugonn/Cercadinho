@@ -41,8 +41,20 @@ Projeto de faculdade que simula o funcionamento de um escalonador
 ### Tecnologias:
  - Java
 
-## 5 - RDtoBigQuery
-Função hospedada no Google Cloud que busca dados da  API do RD Station e envia para o Big Query
+## 5 - RDFunctions
+Pasta que contém as funções desenvolvidas em .NET Core que são hospedadas no Google Cloud e fazem chamadas para a API do RD Station retornando os dados requisitados.
+
+###  - RDApiToBigQuery
+
+Função que faz a chamadas da API de CRM do RD Station 
+
+### - RDTokenFunctionCallback
+
+Função de callback para a API de Marketing que possui AUTH 2.0
+
+### - RDToken
+
+Função que faz a chamada para a RD Station recuperar o Token
 
 ### Tecnologias:
  - .NET 3.1
@@ -50,13 +62,3 @@ Função hospedada no Google Cloud que busca dados da  API do RD Station e envia
  - Google Cloud Functions Framework
  - Google Cloud BigQuery V2
 
-## 6 - RabbitMQSender
-Aplicação faz autenticação 2.0 na API do RD Station e retorna os contatos da api.
-
-### Tecnologias:
- - .NET 6
- - C#
-
- ### Padrões e Princípios:
- - [Ports and Adapter Pattern](https://alistair.cockburn.us/hexagonal-architecture/)
- - [Dependency Injection](https://stackify.com/dependency-injection/)
