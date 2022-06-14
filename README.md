@@ -35,13 +35,10 @@ Aplicação que faz upload de arquivo no S3 utilizando o localstack para reprodu
  ### Padrões e Princípios:
  - [SOLID](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
 
-## 4 - Escalonador
-Projeto de faculdade que simula o funcionamento de um escalonador
-
 ### Tecnologias:
  - Java
 
-## 5 - RDFunctions
+## 4 - RDFunctions
 Pasta que contém as funções desenvolvidas em .NET Core que são hospedadas no Google Cloud e fazem chamadas para a API do RD Station retornando os dados requisitados.
 
 ###  - RDApiToBigQuery
